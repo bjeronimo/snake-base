@@ -32,6 +32,14 @@ Se a cobra colidir com seu próprio corpo, o jogo termina.
 - [ ] Tarefa 09: assegurar que a cobra não dá ré :: o dev deverá assegurar que a só poderá seguir por uma mesma direção. caso o usuário tente voltar, ele avança um pixel na mesma direção.
 
 
+## Templates
+
+- Javascript: https://github.com/bjeronimo/snake-js
+- Typescript: https://github.com/bjeronimo/snake-ts
+- Python: https://github.com/bjeronimo/snake-python
+- C#: https://github.com/bjeronimo/snake-csharp
+- C++: https://github.com/bjeronimo/snake-c-plus-plus
+
 ## Como Contribuir
 Sinta-se à vontade para contribuir com este projeto, seja corrigindo bugs, implementando novos recursos ou melhorando a documentação. Para começar:
 
